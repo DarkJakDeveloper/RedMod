@@ -1,3 +1,0 @@
-displayName = Red Mod
-author = BRWinner
-version = 0.1
